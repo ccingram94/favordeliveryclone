@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #0099e5;
+  color: #fff;
 }
 
 code {
@@ -15,4 +17,9 @@ code {
 .section {
   width: 100vw;
   height: 80vh;
+}
+
+.footer {
+  width: 100vw;
+  height: 50vh;
 }
